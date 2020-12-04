@@ -1,5 +1,6 @@
-The Boolean Attributes
 <html>
+The Boolean Attributes
+
 1. allowfullscreen
 2. allowpaymentrequest
 3. async
